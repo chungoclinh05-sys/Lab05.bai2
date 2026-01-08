@@ -1,0 +1,5 @@
+[
+  {"course_code":"PHP01","course_name":"Lập trình PHP","credits":3},
+  {"course_code":"JS01","course_name":"JavaScript","credits":3},
+  {"course_code":"DB01","course_name":"Cơ sở dữ liệu","credits":2}
+]
